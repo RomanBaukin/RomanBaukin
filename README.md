@@ -5,11 +5,6 @@ I took two courses at GLO Academy: "Web Start" and "JavaScript" and successfully
 #### Skills
 JS / HTML / CSS
 
-#### My social networks
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/romanbaukin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rbaukin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/romanbaukin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](roman-baukin.ru) 
-
-
 #### Codewars stats
 <a href="https://www.codewars.com/users/romanbaukin"><img alt="My codewars stats" src="https://www.codewars.com/users/romanbaukin/badges/large"></a>
 
