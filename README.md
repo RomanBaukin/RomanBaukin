@@ -1,6 +1,10 @@
 ### Hi there 👋, my name is Roman
 #### I'm studying at RS School as a front-end developer
-I took two courses at GLO Academy: "Web Start" and "JavaScript" and successfully defended two diploma projects. I am currently taking a JS / Frontend development course at RS School.
+From December 2021 to the current moment I am studying at RS School as a Frondend developer (React, JS).
+
+I live in Batumi, Georgia.
+
+I am diligent, efficient and motivated.
 
 #### Skills
 JS / HTML / CSS
