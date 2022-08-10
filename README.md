@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Roman
-#### I'm studying at RS School as a front-end developer
+#### I'm studying at RS School as a Frontend developer (React)
 From December 2021 to the current moment I am studying at RS School as a Frondend developer (React, JS).
 
 I live in Batumi, Georgia.
