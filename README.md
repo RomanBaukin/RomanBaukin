@@ -2,7 +2,7 @@
 #### I'm studying at RS School as a Frontend developer (React)
 :house: I live in Batumi, Georgia.
 
-From December 2021 to the current moment I am studying at RS School as a Frondend developer (React, JS).
+👨‍🎓 From December 2021 to the current moment I am studying at RS School as a Frondend developer (React, JS).
 
 #### Skills
 <img align="left" alt="JS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/> React
